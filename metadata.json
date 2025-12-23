@@ -1,0 +1,7 @@
+{
+  "name": "Khatti Methi Rasoi",
+  "description": "The soul of Lahore in the heart of Karachi. A refined, interactive Pakistani fine dining experience featuring a rounded luxury design and a smart AI Concierge.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
