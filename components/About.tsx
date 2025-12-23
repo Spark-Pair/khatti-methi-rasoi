@@ -57,7 +57,7 @@ const About: React.FC = () => {
             className="absolute top-20 right-0 w-2/3 aspect-[4/5] rounded-[2.5rem] overflow-hidden border border-white/10 z-0 grayscale opacity-40"
           >
             <img 
-              src="/public/about-1.avif" 
+              src="/about-1.avif" 
               className="w-full h-full object-cover"
               alt="Spices"
             />
@@ -68,7 +68,7 @@ const About: React.FC = () => {
             className="relative w-4/5 aspect-[4/5] rounded-[3rem] overflow-hidden border-4 border-[#FDCD07]/20 z-10 shadow-2xl cursor-pointer group hover:scale-[1.02] transition-all duration-300"
           >
             <img 
-              src="/public/about-1.avif" 
+              src="/about-1.avif" 
               className="w-full h-full object-cover transition-all duration-300 group-hover:scale-[1.05]"
               alt="Chef Plating"
             />
@@ -84,7 +84,7 @@ const About: React.FC = () => {
             className="absolute top-20 left-0 w-1/2 aspect-square rounded-[2rem] overflow-hidden border border-[#FDCD07]/30 z-20 shadow-2xl"
           >
             <img 
-              src="/public/about-1.avif" 
+              src="/about-1.avif" 
               className="w-full h-full object-cover"
               alt="Dish Detail"
             />
